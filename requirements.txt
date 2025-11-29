@@ -1,10 +1,10 @@
-openai
-scikit-learn
-python-dotenv
-langdetect
 streamlit
-sentence-transformers
-pymupdf
 numpy
+sentence-transformers
+langdetect
+requests
+wikipedia
+transformers
+sentencepiece
 torch
-pandas
+duckduckgo-search==6.1.7
