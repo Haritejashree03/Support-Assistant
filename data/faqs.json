@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the refund policy?",
+    "answer": "Refunds are processed within 5-7 business days to the original payment method after approval."
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery time is 3-4 business days depending on your location. Remote areas may take longer."
+  },
+  {
+    "question": "Is cash on delivery available?",
+    "answer": "Yes, Cash on Delivery is available for orders below ₹5,000."
+  },
+  {
+    "question": "How can I cancel my order?",
+    "answer": "Orders can be cancelled within 12 hours after placing them from the My Orders page."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit cards, debit cards, UPI, net banking, and wallets like PhonePe, PayTM, and Google Pay."
+  }
+]

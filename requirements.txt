@@ -1,0 +1,10 @@
+openai
+scikit-learn
+python-dotenv
+langdetect
+streamlit
+sentence-transformers
+pymupdf
+numpy
+torch
+pandas

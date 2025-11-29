@@ -1,0 +1,9 @@
+timestamp,query,status,confidence
+2025-11-28T10:41:02.937872,"I don't like the product, what to do?",Pending,0.1327
+2025-11-28T10:41:25.454645,is cash on delivery available,Pending,0.3832
+2025-11-28T11:28:31.039846,what is the latest iphone price in india,Pending,0.3220
+2025-11-28T11:58:10.492850,what is the latest iphone price in india,Pending,0.3220
+2025-11-28T12:04:31.292499,what is the latest iphone price in india,Pending,0.3220
+2025-11-28T12:29:08.977241,what is the latest iphone price in india,Pending,0.3220
+2025-11-28T15:30:09.430908,what is the latest iphone price in india,Pending,0.3220
+2025-11-28T22:33:25.764890,is return available,Pending,0.3210
