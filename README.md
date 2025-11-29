@@ -19,7 +19,11 @@ Automated customer support assistant that answers FAQs using RAG and escalates c
 ## Run Locally
 
 git clone <repo>
+
 cd support-assistant-agent
+
 pip install -r requirements.txt
+
 cp .env.example .env
+
 streamlit run app.py
